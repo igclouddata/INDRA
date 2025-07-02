@@ -1,0 +1,6 @@
+producto_id,nombre_producto,tipo
+P001,Cuenta Corriente,Cuenta
+P002,Cuenta Ahorros,Cuenta
+P003,Tarjeta Crédito,Crédito
+P004,Crédito Hipotecario,Crédito
+P005,Inversión a Plazo,Inversión
