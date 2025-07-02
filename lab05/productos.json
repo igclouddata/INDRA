@@ -1,0 +1,122 @@
+[
+  {
+    "id": "P001",
+    "nombre": "Producto1",
+    "tipo": "cuenta",
+    "riesgo": "alto"
+  },
+  {
+    "id": "P002",
+    "nombre": "Producto2",
+    "tipo": "pr\u00e9stamo",
+    "riesgo": "bajo"
+  },
+  {
+    "id": "P003",
+    "nombre": "Producto3",
+    "tipo": "pr\u00e9stamo",
+    "riesgo": "medio"
+  },
+  {
+    "id": "P004",
+    "nombre": "Producto4",
+    "tipo": "tarjeta",
+    "riesgo": "bajo"
+  },
+  {
+    "id": "P005",
+    "nombre": "Producto5",
+    "tipo": "cuenta",
+    "riesgo": "bajo"
+  },
+  {
+    "id": "P006",
+    "nombre": "Producto6",
+    "tipo": "tarjeta",
+    "riesgo": "alto"
+  },
+  {
+    "id": "P007",
+    "nombre": "Producto7",
+    "tipo": "pr\u00e9stamo",
+    "riesgo": "bajo"
+  },
+  {
+    "id": "P008",
+    "nombre": "Producto8",
+    "tipo": "cuenta",
+    "riesgo": "medio"
+  },
+  {
+    "id": "P009",
+    "nombre": "Producto9",
+    "tipo": "pr\u00e9stamo",
+    "riesgo": "bajo"
+  },
+  {
+    "id": "P010",
+    "nombre": "Producto10",
+    "tipo": "cuenta",
+    "riesgo": "bajo"
+  },
+  {
+    "id": "P011",
+    "nombre": "Producto11",
+    "tipo": "cuenta",
+    "riesgo": "alto"
+  },
+  {
+    "id": "P012",
+    "nombre": "Producto12",
+    "tipo": "seguro",
+    "riesgo": "medio"
+  },
+  {
+    "id": "P013",
+    "nombre": "Producto13",
+    "tipo": "tarjeta",
+    "riesgo": "bajo"
+  },
+  {
+    "id": "P014",
+    "nombre": "Producto14",
+    "tipo": "seguro",
+    "riesgo": "medio"
+  },
+  {
+    "id": "P015",
+    "nombre": "Producto15",
+    "tipo": "tarjeta",
+    "riesgo": "bajo"
+  },
+  {
+    "id": "P016",
+    "nombre": "Producto16",
+    "tipo": "cuenta",
+    "riesgo": "bajo"
+  },
+  {
+    "id": "P017",
+    "nombre": "Producto17",
+    "tipo": "cuenta",
+    "riesgo": "bajo"
+  },
+  {
+    "id": "P018",
+    "nombre": "Producto18",
+    "tipo": "seguro",
+    "riesgo": "alto"
+  },
+  {
+    "id": "P019",
+    "nombre": "Producto19",
+    "tipo": "seguro",
+    "riesgo": "alto"
+  },
+  {
+    "id": "P020",
+    "nombre": "Producto20",
+    "tipo": "tarjeta",
+    "riesgo": "bajo"
+  }
+]

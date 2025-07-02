@@ -1,0 +1,101 @@
+ID,Nombre,Edad,Ciudad,Genero,TipoCliente
+C0001,Aitana Escalona,58,Madrid,masculino,premium
+C0002,Carla Cisneros Bellido,35,Barcelona,masculino,nuevo
+C0003,Ofelia Llobet Reguera,65,Madrid,otro,premium
+C0004,Constanza Sánchez Doménech,52,Madrid,otro,recurrente
+C0005,Etelvina Álvaro Azorin,20,Madrid,masculino,nuevo
+C0006,Artemio Llabrés-Pérez,32,Bilbao,otro,nuevo
+C0007,Isaura Toledo-Quevedo,53,Barcelona,otro,premium
+C0008,María Ángeles Gonzalo Zurita,62,Bilbao,femenino,nuevo
+C0009,Albert Salvà-Llabrés,46,Bilbao,femenino,nuevo
+C0010,Eva Yolanda Roma Benavente,66,Barcelona,otro,recurrente
+C0011,Trinidad Luz Castilla,39,Valencia,masculino,nuevo
+C0012,Moreno de Ropero,66,Valencia,masculino,nuevo
+C0013,Timoteo Carbajo Báez,42,Madrid,femenino,recurrente
+C0014,Carmelo Roca Benet,56,Valencia,masculino,premium
+C0015,Felisa Caro Alemán,47,Bilbao,masculino,recurrente
+C0016,Merche del Cazorla,23,Bilbao,femenino,premium
+C0017,Vasco Múñiz Polo,57,Valencia,otro,nuevo
+C0018,Benigno Ródenas Lobo,63,Madrid,masculino,premium
+C0019,Lola Urrutia-Oliva,32,Valencia,masculino,nuevo
+C0020,Pepito Recio Benitez,24,Sevilla,femenino,recurrente
+C0021,Seve Galindo Cuervo,58,Valencia,masculino,recurrente
+C0022,Trini Ágata Perez Dalmau,40,Barcelona,otro,recurrente
+C0023,Emigdio Peiró Fuentes,62,Madrid,otro,premium
+C0024,Cayetana Rius Rosa,28,Bilbao,otro,nuevo
+C0025,Primitivo Gómez Trujillo,28,Sevilla,femenino,recurrente
+C0026,Florencia Jáuregui Font,58,Bilbao,masculino,premium
+C0027,Iris Feliu,38,Madrid,masculino,nuevo
+C0028,Lola Infante Sevilla,69,Valencia,femenino,recurrente
+C0029,Rufina Pla,22,Barcelona,otro,premium
+C0030,Tamara Carbó Morillo,38,Barcelona,otro,recurrente
+C0031,Alejo Chaves-Amador,43,Sevilla,masculino,recurrente
+C0032,Pacífica Corominas Riba,26,Barcelona,otro,premium
+C0033,Perla del Osuna,52,Valencia,otro,premium
+C0034,Aurelia Ugarte,45,Bilbao,femenino,recurrente
+C0035,Rita Borja-Pérez,32,Barcelona,otro,recurrente
+C0036,Marcelo Planas Serra,23,Madrid,masculino,nuevo
+C0037,Perla Bauzà-Prado,58,Barcelona,otro,recurrente
+C0038,Cornelio Estévez Caro,56,Madrid,femenino,recurrente
+C0039,Rafa Mas Fabra,56,Sevilla,otro,recurrente
+C0040,Hernán Campo Saura,53,Madrid,otro,premium
+C0041,Dulce del Ángel,25,Bilbao,femenino,premium
+C0042,Griselda Luís Morcillo,39,Madrid,femenino,recurrente
+C0043,Julián Araujo Cisneros,28,Sevilla,masculino,premium
+C0044,Juana Crescencia Porcel Pedrero,64,Valencia,otro,nuevo
+C0045,Jimena Español Pardo,50,Madrid,otro,recurrente
+C0046,Rosalía Revilla Gomez,58,Bilbao,otro,nuevo
+C0047,Timoteo de Roldán,27,Valencia,masculino,premium
+C0048,Manu Marcelino Palomares Vergara,67,Bilbao,masculino,premium
+C0049,Evangelina Huguet Busquets,38,Sevilla,masculino,nuevo
+C0050,Remedios Oliveras Cid,41,Valencia,masculino,nuevo
+C0051,Alba Garay Salgado,33,Bilbao,masculino,nuevo
+C0052,Miguel Juárez Iborra,64,Sevilla,masculino,premium
+C0053,Claudio Tejada Barros,67,Barcelona,masculino,premium
+C0054,Fabricio del Puerta,48,Bilbao,masculino,recurrente
+C0055,Leonardo Santos Blasco,51,Bilbao,femenino,nuevo
+C0056,Amor del Álvaro,52,Barcelona,otro,recurrente
+C0057,Ofelia Noelia Donoso Carrillo,43,Valencia,femenino,premium
+C0058,Eusebio Verdú Bueno,46,Madrid,masculino,nuevo
+C0059,Víctor Carrasco Cerezo,22,Valencia,masculino,premium
+C0060,Ester Coello Guerra,53,Barcelona,otro,nuevo
+C0061,Florentina Martinez Fabra,18,Madrid,otro,premium
+C0062,Marcia Machado Escribano,21,Barcelona,masculino,nuevo
+C0063,Ascensión Burgos Córdoba,39,Madrid,otro,nuevo
+C0064,Luciano Alemany Canales,35,Sevilla,masculino,premium
+C0065,Gervasio Campoy Calatayud,26,Bilbao,otro,recurrente
+C0066,Ruperta Cases Bou,33,Sevilla,femenino,nuevo
+C0067,Primitivo de Parejo,24,Madrid,otro,recurrente
+C0068,Nélida Garcés Coca,40,Sevilla,femenino,recurrente
+C0069,Margarita Barral Torralba,64,Madrid,otro,premium
+C0070,Andrés Felipe Catalán Marin,59,Madrid,masculino,recurrente
+C0071,Rosa María Nebot-Quiroga,64,Valencia,masculino,nuevo
+C0072,Félix del Lluch,30,Barcelona,otro,recurrente
+C0073,Moisés Isern Bernad,26,Sevilla,masculino,recurrente
+C0074,Duilio Quevedo-Gelabert,47,Barcelona,masculino,recurrente
+C0075,Florentino Portillo,69,Bilbao,masculino,nuevo
+C0076,Vinicio Romeu-Amorós,59,Bilbao,masculino,nuevo
+C0077,Macario Vergara Baños,66,Barcelona,masculino,recurrente
+C0078,Juanita de Peral,49,Sevilla,masculino,recurrente
+C0079,Adolfo de Ángel,21,Barcelona,femenino,nuevo
+C0080,Aristides Castrillo Mulet,42,Valencia,femenino,recurrente
+C0081,Juanito Ruy Pujadas Haro,45,Bilbao,otro,premium
+C0082,David Vilanova Tamayo,49,Barcelona,masculino,recurrente
+C0083,Gertrudis Amador-Marcos,31,Madrid,otro,premium
+C0084,Socorro Bernarda España Zamora,52,Madrid,otro,recurrente
+C0085,Hector Francisco Jose Tur Quiroga,21,Madrid,otro,recurrente
+C0086,Eusebio Morell Castell,50,Bilbao,masculino,nuevo
+C0087,Nicolasa Font,50,Madrid,masculino,nuevo
+C0088,Tito Bello Arana,56,Madrid,otro,nuevo
+C0089,Paulino Gomila Plana,43,Madrid,otro,nuevo
+C0090,Toni de Camino,55,Bilbao,masculino,premium
+C0091,Milagros Aparicio Torres,23,Sevilla,otro,premium
+C0092,Angelina Barrios Nicolás,54,Bilbao,femenino,recurrente
+C0093,Pelayo Pombo-Peralta,31,Valencia,masculino,recurrente
+C0094,Manu Valero Barberá,43,Barcelona,otro,premium
+C0095,David Aguirre Contreras,37,Sevilla,femenino,nuevo
+C0096,Antonio Porras Sarabia,18,Sevilla,otro,premium
+C0097,Zacarías Calderón Miranda,24,Madrid,otro,nuevo
+C0098,Rómulo Pedrosa,50,Valencia,masculino,recurrente
+C0099,Pedro Gilabert-Castellanos,22,Barcelona,femenino,recurrente
+C0100,Daniela Ferrándiz Parra,28,Sevilla,otro,premium
